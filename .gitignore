@@ -1,0 +1,9 @@
+# read more about .gitignore file here: https://git-scm.com/docs/gitignore
+
+# Virtualenv files
+/venv
+/env
+
+# env files
+.venv
+.env
